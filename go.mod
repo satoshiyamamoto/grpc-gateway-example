@@ -1,4 +1,4 @@
-module github.com/satoshiyamamoto/grpc-gateway-sandbox
+module github.com/satoshiyamamoto/grpc-gateway-example
 
 go 1.16
 
